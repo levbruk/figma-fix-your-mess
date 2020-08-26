@@ -1,0 +1,7 @@
+{
+  "name": "Fix Your Mess",
+  "id": "817773666528183444",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}

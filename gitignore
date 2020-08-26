@@ -1,0 +1,11 @@
+# VS Code settings
+.vscode
+
+# Node modules
+node_modules
+
+# Webpack dist folder
+dist
+
+# Private keys
+src/private.ts
